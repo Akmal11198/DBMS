@@ -1,0 +1,13 @@
+Table Name, Column Name, Column Type, ClusteringKey, Indexed
+students,pol,java.awt.Polygon,true,true
+studentss,pol,java.awt.Polygon,true,true
+studentsss,pol,java.awt.Polygon,true,true
+studentssss,pol,java.awt.Polygon,true,true
+studentsssss,pol,java.awt.Polygon,true,true
+studentssssss,pol,java.awt.Polygon,true,true
+studentsssssss,pol,java.awt.Polygon,true,true
+studentssssssss,pol,java.awt.Polygon,true,true
+studentsssssssss,pol,java.awt.Polygon,true,true
+studentssssssssss,gpa,java.lang.Double,true,false,
+studentsssssssssss,gpa,java.lang.Double,true,false,
+studentssssssssssss,gpa,java.lang.Double,true,false,
